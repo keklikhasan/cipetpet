@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Çipetpet</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string-array name="audio_simple_list">
+        <item>caca</item>
+        <item>cak</item>
+        <item>cap</item>
+        <item>cel</item>
+        <item>cer</item>
+        <item>cipi</item>
+        <item>criling</item>
+        <item>eyav</item>
+        <item>kaf</item>
+        <item>kah</item>
+        <item>kis</item>
+        <item>kiya</item>
+        <item>kiyak</item>
+        <item>liooo</item>
+        <item>pirrr</item>
+        <item>vayis</item>
+        <item>vec</item>
+        <item>veris</item>
+        <item>veste</item>
+        <item>vijio</item>
+        <item>zirrr</item>
+        <item>bicinik</item>
+        <item>cibili</item>
+        <item>pet</item>
+        <item>ci</item>
+        <item>cipetpet</item>
+        <item>sak</item>
+    </string-array>
+    <string-array name="audio_complex_list">
+        <item>aniya_3_kiya_4_cer_4_liooo_1</item>
+        <item>bicinik_2</item>
+        <item>cak_4</item>
+        <item>cap_2</item>
+        <item>cel_3</item>
+        <item>cer_4</item>
+        <item>ci_1_pet_5</item>
+        <item>ci_pet_6x5_cibili_3_sak_6</item>
+        <item>cibili_2_sak_6</item>
+        <item>cibili_3_sak_6</item>
+        <item>comp_cipet_2</item>
+        <item>cipi_2_sak_5_kis_4_eyav_3_cer_5</item>
+        <item>cipi_4_sak_8_vijio_1</item>
+        <item>cipi_4</item>
+        <item>cirling_2_pirr_1_cak_4_bicinik_2_aniya_1_zirr_1</item>
+        <item>cirling_2</item>
+        <item>eyav_3</item>
+        <item>kaf_2</item>
+        <item>kah_2</item>
+        <item>kis_3</item>
+        <item>kis_5</item>
+        <item>kiya_2</item>
+        <item>sak_5</item>
+        <item>vayis_3</item>
+        <item>vec_3_sak_3</item>
+        <item>vec_3</item>
+        <item>veris_3_sak_3</item>
+        <item>veris_3</item>
+        <item>veste_3_sak_3</item>
+        <item>veste_3</item>
+    </string-array>
+    <string-array name="audio_sevket_list">
+        <item>amatoru_egelendirir</item>
+        <item>atarlar_disari</item>
+        <item>baska</item>
+        <item>bunlar_kus_degil</item>
+        <item>hadi_yavrum_bir_daha_vur</item>
+        <item>herseyin_bir_makami_var</item>
+        <item>lezzetli_cipetpet_degil</item>
+        <item>lezzetli_cipetpet</item>
+        <item>mesela</item>
+        <item>otuyo_mu_otuyo</item>
+        <item>yuru_derler</item>
+    </string-array>
+    <string-array name="action_nav_menu">
+        <item>Kompleks Kuş Sesler</item>
+        <item>Basit Kuş Sesler</item>
+        <item>Arnavut Şevketten</item>
+    </string-array>
+
+</resources>
